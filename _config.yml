@@ -6,7 +6,7 @@ theme: just-the-docs
 
 aux_links:
   "Java microservices on Azure Spring Apps Enterprise on GitHub": 
-    - "https://github.com/Azure-Samples/java-microservices-asa-e-lab"
+    - "https://github.com/sebafo/java-microservices-asa-aca-lab"
 
 
 callouts_level: quiet # or loud
