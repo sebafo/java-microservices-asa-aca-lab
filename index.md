@@ -6,7 +6,7 @@ nav_order: 1
 
 # Lab: Deploying and running Java Applications in Azure Spring Apps Enterprise
 
-This lab teaches you how to deploy the [Spring Petclinic Microservices](https://github.com/Azure-Samples/java-microservices-asa-e-lab/tree/main/src) application to an Azure Spring Apps Enterprise instance and integrate it with additional Azure services.
+This lab teaches you how to deploy the [Spring Petclinic Microservices](https://github.com/sebafo/java-microservices-asa-aca-lab/tree/main/src) application to an Azure Spring Apps Standard consumption and dedicated plan service and integrate it with additional Azure services.
 
 ## Modules
 
@@ -21,7 +21,7 @@ This lab has modules on:
 * Protect endpoints using Web Application Firewalls
 * Secure MySQL database and Key Vault using a Private Endpoint
 
-The lab is available as GitHub pages [here](https://azure-samples.github.io/java-microservices-asa-e-lab/)
+The lab is available as GitHub pages [here](https://sebafo.github.io/java-microservices-asa-aca-lab/)
 
 ## Getting Started
 
