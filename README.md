@@ -36,5 +36,5 @@ For running this lab with all the needed tooling, there are 3 options available:
 
 All the steps of this lab have been tested in the GitHub CodeSpace. This is the preferred option for running this lab!
 
-Full installation guidance and options for running this lab can be found in the [Installation]({% link install.md %}) instructions.
+Full installation guidance and options for running this lab can be found in the [Installation](https://sebafo.github.io/java-microservices-asa-aca-lab/install.html) instructions.
 
