@@ -17,9 +17,9 @@ For running this lab with all the needed tooling, there are 3 options available:
 
 ## Using a GitHub Codespace
 
-The [git repository of this lab](https://github.com/Azure-Samples/java-microservices-asa-e-lab) contains a dev container for Java development. This container contains all the needed tools for running this lab. In case you want to use this dev container you can use a [GitHub CodeSpace](https://github.com/features/codespaces) in case your GitHub account is enabled for Codespaces.
+The [git repository of this lab](https://github.com/sebafo/java-microservices-asa-aca-lab) contains a dev container for Java development. This container contains all the needed tools for running this lab. In case you want to use this dev container you can use a [GitHub CodeSpace](https://github.com/features/codespaces) in case your GitHub account is enabled for Codespaces.
 
-1. Navigate to the [GitHub repository of this lab](https://github.com/Azure-Samples/java-microservices-asa-e-lab) and select **Fork**.
+1. Navigate to the [GitHub repository of this lab](https://github.com/sebafo/java-microservices-asa-aca-lab) and select **Fork**.
 
    {: .note }
    > In case you are using a GitHub EMU account, it might be you are not able to fork a public repository. In that case, create a new repository with the same name, clone the original repository, add your new repository as a remote and push to this new remote.
@@ -38,7 +38,7 @@ The [git repository of this lab](https://github.com/Azure-Samples/java-microserv
 
 ## Using Visual Studio Code with remote containers
 
-The [git repository of this lab](https://github.com/Azure-Samples/java-microservices-asa-e-lab) contains a dev container for Java development. This container contains all the needed tools for running this lab. For this option you need the following tools to be installed on your local system:
+The [git repository of this lab](https://github.com/sebafo/java-microservices-asa-aca-lab) contains a dev container for Java development. This container contains all the needed tools for running this lab. For this option you need the following tools to be installed on your local system:
 
 - Visual Studio Code available from [Visual Studio Code Downloads](https://code.visualstudio.com/download)
 - Latest Git for Windows available from [Git Downloads](https://git-scm.com/downloads), or similar on another OS.
@@ -56,7 +56,7 @@ The [git repository of this lab](https://github.com/Azure-Samples/java-microserv
 
 To get started, follow the following steps: 
 
-1. Navigate to the [GitHub repository of this lab](https://github.com/Azure-Samples/java-microservices-asa-e-lab) and select **Fork**.
+1. Navigate to the [GitHub repository of this lab](https://github.com/sebafo/java-microservices-asa-aca-lab) and select **Fork**.
 
 1. Make sure your own username is indicated as the fork `Owner`
 
@@ -141,7 +141,7 @@ git config --global user.name "<your-full-name>"
 
 Once all these tools are installed, to get started you need to:
 
-1. Navigate to the [GitHub repository of this lab](https://github.com/Azure-Samples/java-microservices-asa-e-lab) and select **Fork**.
+1. Navigate to the [GitHub repository of this lab](https://github.com/sebafo/java-microservices-asa-aca-lab) and select **Fork**.
 
       {: .note }
    > In case you are using a GitHub EMU account, it might be you are not able to fork a public repository. In that case, create a new repository with the same name, clone the original repository, add your new repository as a remote and push to this new remote.

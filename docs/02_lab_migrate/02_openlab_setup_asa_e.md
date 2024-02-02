@@ -17,9 +17,9 @@ You have established a plan for migrating the Spring Petclinic application to Az
 
 After you complete this challenge, you will be able to:
 
-- Create an Azure Spring Apps Enterprise service
+- Create an Azure Spring Apps service
 - Set up the config repository
-- Set up the Application Configuration Service for Azure Spring Apps Enterprise
+- Set up the Application Configuration Service for Azure Spring Apps
 - Create an Azure MySQL Database service
 - Deploy the Spring Petclinic app components to the Spring Apps service
 - Provide a publicly available endpoints for the Spring Petclinic application
@@ -37,9 +37,9 @@ The below image illustrates the end state you will be building in this challenge
 
 During this challenge, you will:
 
-- Create an Azure Spring Apps Enterprise service
+- Create an Azure Spring Apps service
 - Set up the config repository
-- Set up the Application Configuration Service for Azure Spring Apps Enterprise
+- Set up the Application Configuration Service for Azure Spring Apps
 - Create an Azure MySQL Database service
 - Deploy the Spring Petclinic app components to the Spring Apps service
 - Provide a publicly available endpoints for the Spring Petclinic application
