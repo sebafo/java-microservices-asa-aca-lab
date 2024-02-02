@@ -2,7 +2,7 @@ title: Java on Azure Spring Apps
 description: This lab walks you through the creation Azure Spring Apps integrated with multiple Azure service, and deploy an application with Front End supported by various backend microservices
 theme: just-the-docs
 
-# url: https://Azure-Samples.github.io/java-microservices-asa-e-lab
+# url: https://Azure-Samples.github.io/java-microservices-asa-aca-lab
 
 aux_links:
   "Java microservices on Azure Spring Apps Standard": 

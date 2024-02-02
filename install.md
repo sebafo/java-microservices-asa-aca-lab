@@ -70,7 +70,7 @@ To get started, follow the following steps:
    ```bash
    mkdir workspaces
    cd workspaces
-   git clone https://github.com/<your-github-account>/java-microservices-asa-e-lab.git
+   git clone https://github.com/<your-github-account>/java-microservices-asa-aca-lab.git
    ```
 
 1. When prompted to sign in to GitHub, select the **Sign in with your browser** option. This will automatically open a new tab in the web browser window, prompting you to provide your GitHub username and password.
@@ -82,10 +82,10 @@ To get started, follow the following steps:
    {: .note }
    > However in one of the lab steps you will put a GitHub PAT token in one of the configuration files, make sure to **not** commit this PAT token, since it will immediately get invalidated by GitHub. Once invalidated your next lab steps will fail. You can use the [LabTips]({% link LabTips.md %}) to recover from this.
 
-1. Navigate into the `java-microservices-asa-e-lab/src` folder that got created.
+1. Navigate into the `java-microservices-asa-aca-lab/src` folder that got created.
 
    ```bash
-   cd java-microservices-asa-e-lab/src
+   cd java-microservices-asa-aca-lab/src
    ```
 
 1. Open the project with Visual Studio Code
@@ -155,7 +155,7 @@ Once all these tools are installed, to get started you need to:
    ```bash
    mkdir workspaces
    cd workspaces
-   git clone https://github.com/<your-github-account>/java-microservices-asa-e-lab.git
+   git clone https://github.com/<your-github-account>/java-microservices-asa-aca-lab.git
    ```
 
 1. When prompted to sign in to GitHub, select the **Sign in with your browser** option. This will automatically open a new tab in the web browser window, prompting you to provide your GitHub username and password.
@@ -164,10 +164,10 @@ Once all these tools are installed, to get started you need to:
 
 1. In workspaces folder double check that the spring petclinic application got cloned correctly. You can use the repository in your workspaces folder to regularly push your changes to.
 
-1. Navigate into the _java-microservices-asa-e-lab/src_ folder that got created.
+1. Navigate into the _java-microservices-asa-aca-lab/src_ folder that got created.
 
    ```bash
-   cd java-microservices-asa-e-lab/src
+   cd java-microservices-asa-aca-lab/src
    ```
 
 1. Open the project with Visual Studio Code
